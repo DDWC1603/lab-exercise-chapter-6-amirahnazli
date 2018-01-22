@@ -1,20 +1,19 @@
+//NUR AMIRAH AFIQAH
+//A17DW2172
 //its just an array example
 //find the sum of all the value inside the array
 #include <iostream>
 using namespace std;
 
-ary[]={/*insert your own value*/};
-
-n, result=0;
+int array[5]={3, 6, 9, 12, 15};
 
 int main()
 {
-
-	for(/* n is not more than 10*/)
+	int n, result=0;
+	
+	for(n=0; n<5; n++)
 	{
-		result += ary[];
+		result += array[n];
 	}
 	cout<<result;
-	
-
 }
