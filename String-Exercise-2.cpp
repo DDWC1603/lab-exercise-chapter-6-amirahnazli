@@ -1,6 +1,10 @@
+//NUR AMIRAH AFIQAH
+//A17DW2172
 //append char1 with char2 with the right string function.
 //and display both char1 and char2
 #include <iostream>
+#include <cstring>
+using namespace std;
 
 int main(){
 
@@ -14,4 +18,3 @@ int main(){
 
 	return 0;
 }
-
